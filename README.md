@@ -1,2 +1,2 @@
-# .dotfiles
-my .config files
+# config file
+* for backup *
