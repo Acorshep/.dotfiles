@@ -105,20 +105,20 @@ source $ZSH/oh-my-zsh.sh
 
 eval "$(starship init zsh)"
 
-pokemon-colorscripts -r
+# pokemon-colorscripts -r
 
-alias clr='clear'
-alias fuck='sudo pacman -S'
-alias pussy='sudo pacman -Syu'
-alias remove='sudo pacman -Rns'
-alias install='yay -S'
-alias burn='rm -rf'
-alias tree='cbonsai -l'
-alias matrix='cmatrix'
-alias fish='asciiquarium'
-alias train='sl'
-alias whosays='fortune | cowsay -r'
-alias vader='cat vader.txt'
-alias kaneki='cat kaneki.txt'
-alias yoda='cat yoda.txt'
-alias nerdfetch='neofetch'
+# alias clr='clear'
+# alias fuck='sudo pacman -S'
+# alias pussy='sudo pacman -Syu'
+# alias remove='sudo pacman -Rns'
+# alias install='yay -S'
+# alias burn='rm -rf'
+# alias tree='cbonsai -l'
+# alias matrix='cmatrix'
+# alias fish='asciiquarium'
+# alias train='sl'
+# alias whosays='fortune | cowsay -r'
+# alias vader='cat vader.txt'
+# alias kaneki='cat kaneki.txt'
+# alias yoda='cat yoda.txt'
+# alias nerdfetch='neofetch'
