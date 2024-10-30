@@ -1,2 +1,2 @@
 # config file
-* for backup *
+_for backup in case i break my system_
