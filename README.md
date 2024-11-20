@@ -3,6 +3,17 @@ This is where I keep all of my dotfiles.
 
 Feel free to copy any of the dotfiles or downlaod the wallpapers you find here, as much of it is just copied from others' dotfiles. It contains my dotfiles of both when i was using kde and now when i am using i3.
 
+## software i use
+* OS: Arch Linux
+* DE: i3
+* Top panel: polybar(with network and powermenu module)
+* Term: Kitty
+* Text Editor: Neovim
+* App Launcher: Rofi
+* File manager: pantheon files & ranger
+* notifications: dunst
+* Screenshot: flameshot
+
 ![s45](https://github.com/user-attachments/assets/421f4366-5612-43f2-8809-d53a690a854e)
 
 ![s1](https://github.com/user-attachments/assets/db8c4b83-5ecd-4d2e-aa2e-dd350b0822c3)
