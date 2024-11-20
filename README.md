@@ -7,6 +7,7 @@ Feel free to copy any of the dotfiles or downlaod the wallpapers you find here, 
 * OS: Arch Linux
 * DE: i3
 * Top panel: polybar(with network and powermenu module)
+* Browser: Brave
 * Term: Kitty
 * Text Editor: Neovim
 * App Launcher: Rofi
