@@ -1,5 +1,7 @@
-# config file
-_for backup in case i break my system_
+# dotfiles
+This is where I keep all of my dotfiles.
+
+Feel free to copy any of the dotfiles or downlaod the wallpapers you find here, as much of it is just copied from others' dotfiles. It contains my dotfiles of both when i was using kde and now when i am using i3.
 
 ![s45](https://github.com/user-attachments/assets/421f4366-5612-43f2-8809-d53a690a854e)
 
