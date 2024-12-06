@@ -3,11 +3,11 @@
 ## W1
 ![Wall 1](w1.png)
 ## W2
-![Wall 1](w2.png)
+![Wall 1](w2.jpeg)
 ## W3
-![Wall 1](w3.png)
+![Wall 1](w3.jpeg)
 ## W4
-![Wall 1](w4.png)
+![Wall 1](w5.jpg)
 ## W5
 ![Wall 1](w5.png)
 ## W6
