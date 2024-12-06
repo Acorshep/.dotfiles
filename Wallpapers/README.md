@@ -46,3 +46,5 @@
 ![Wall1](tree.jpg)
 ## W23
 ![Wall1](mountains.png)
+## W24
+![Wall1](c1.png)
