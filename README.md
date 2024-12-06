@@ -17,4 +17,4 @@ Feel free to copy any of the dotfiles or downlaod the wallpapers you find here, 
 
 ![s82](https://github.com/user-attachments/assets/1e568e7a-a296-42a9-996e-cddedba18406)
 
-![s83](https://github.com/user-attachments/assets/890a9a99-4e4c-4f76-beec-7be1edc8e078)
+![s84](https://github.com/user-attachments/assets/1ece1b0e-44e0-41e0-9c83-c6b4fef041fa)
