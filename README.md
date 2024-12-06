@@ -6,12 +6,12 @@ Feel free to copy any of the dotfiles or downlaod the wallpapers you find here, 
 ## software and tools i use
 * OS: Arch Linux
 * DE: i3
-* Top panel: polybar(with network and powermenu module)
-* Browser: Brave
-* Term: Kitty
+* Top panel: polybar
+* Term: Wezterm
+* shell: nushell
 * Text Editor: Neovim
 * App Launcher: Rofi
-* File manager: pantheon files & ranger
+* File manager: pantheon files & yazi
 * notifications: dunst
 * Screenshot Tool: flameshot
 
