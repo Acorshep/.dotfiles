@@ -1,7 +1,7 @@
 # dotfiles
 This is where I keep all of my dotfiles.
 
-Feel free to copy any of the dotfiles or downlaod the wallpapers you find here, as much of it is just copied from others' dotfiles. It contains my dotfiles of both when i was using kde and now when i am using i3.
+Feel free to copy any of the dotfiles or downlaod the wallpapers you find here, as some of it is also copied from others' dotfiles. It contains my dotfiles of both when i was using kde and now when i am using i3.
 
 ## software and tools i use
 * OS: Arch Linux
