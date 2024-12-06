@@ -40,3 +40,7 @@
 ![Wall 1](w19.png)
 ## W20
 ![Wall 1](w20.png)
+## W21
+![Wall 1](space.png)
+## W22
+![Wall1](tree.jpg)
