@@ -15,12 +15,6 @@ Feel free to copy any of the dotfiles or downlaod the wallpapers you find here, 
 * notifications: dunst
 * Screenshot Tool: flameshot
 
-And i know i am using arco linux ascii in my neofetch
-
-![s45](https://github.com/user-attachments/assets/421f4366-5612-43f2-8809-d53a690a854e)
+![s82](https://github.com/user-attachments/assets/1e568e7a-a296-42a9-996e-cddedba18406)
 
 ![s83](https://github.com/user-attachments/assets/890a9a99-4e4c-4f76-beec-7be1edc8e078)
-
-![s46](https://github.com/user-attachments/assets/75517c69-04cd-4788-9cbd-d7a4b66dd157)
-
-![s7](https://github.com/user-attachments/assets/91abc33d-2b87-43b5-940a-a0dc65f3ec55)
