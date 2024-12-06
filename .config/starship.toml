@@ -1,0 +1,80 @@
+format = """
+$directory\
+$git_branch\
+$git_state\
+$git_status\
+$cmd_duration\
+$line_break\
+$python\
+[](#d65d0e)\
+$os\
+$username\
+[ ](fg:#d65d0e)"""
+
+[directory]
+style = "blue"
+
+# [character]
+# success_symbol = "[❯](#458588)"
+# error_symbol = "[❯](red)"
+# vimcmd_symbol = "[❮](green)"
+
+[os]
+disabled = false
+style = "bg:#d65d0e"
+
+[os.symbols]
+Windows = "󰍲 "
+Ubuntu = "󰕈 "
+SUSE = " "
+Raspbian = "󰐿 "
+Mint = "󰣭 "
+Macos = "󰀵 "
+Manjaro = " "
+Linux = "󰌽 "
+Gentoo = "󰣨 "
+Fedora = "󰣛 "
+Alpine = " "
+Amazon = " "
+Android = " "
+Arch = "󰣇 "
+Artix = "󰣇 "
+EndeavourOS = " "
+CentOS = " "
+Debian = "󰣚 "
+Redhat = "󱄛 "
+RedHatEnterprise = "󱄛 "
+Pop = " "
+
+[username]
+show_always = true
+style_user = "bg:#d65d0e"
+style_root = "bg:#d65d0e"
+format = '[ $user ]($style)'
+
+[git_branch]
+format = "[$branch]($style)"
+style = "bright-black"
+
+[git_status]
+format = "[[(*$conflicted$untracked$modified$staged$renamed$deleted)](218) ($ahead_behind$stashed)]($style)"
+style = "cyan"
+conflicted = "​"
+untracked = "​"
+modified = "​"
+staged = "​"
+renamed = "​"
+deleted = "​"
+stashed = "≡"
+
+[git_state]
+format = '\([$state( $progress_current/$progress_total)]($style)\) '
+style = "bright-black"
+
+[cmd_duration]
+format = "[$duration]($style)"
+style = "yellow"
+
+[python]
+format = "[$virtualenv]($style) "
+style = "bright-black"
