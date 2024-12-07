@@ -908,7 +908,6 @@ alias tree = cbonsai -l
 alias matrix = cmatrix
 alias fish = asciiquarium -t
 alias train = sl
-# alias whosays = { fortune | cowsay -r | lolcat }
 alias vader = cat vader.txt
 alias kaneki = cat kaneki.txt
 alias yoda = cat yoda.txt
