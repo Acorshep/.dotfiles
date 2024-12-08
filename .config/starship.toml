@@ -16,7 +16,7 @@ $username\
 [directory]
 format = '\[[$path]($style)\]'
 style = "blue"
-home_symbol = "~/home"
+# home_symbol = "~/home"
 
 # [character]
 # success_symbol = "[❯](#458588)"
