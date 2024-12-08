@@ -8,13 +8,13 @@ $line_break\
 $python\
 [](#fb4934)\
 $os\
-[█](fg:#fb4934 bg:#FCA17D)\
+[](fg:#fb4934 bg:#FCA17D)\
 [](fg:#83a598 bg:#FCA17D)\
 $username\
 [ ](fg:#83a598)"""
 
 [directory]
-format = '\[[$path]($style)\]'
+format = ' \[[$path]($style)\]'
 style = "blue"
 # home_symbol = "~/home"
 
@@ -25,7 +25,7 @@ style = "blue"
 
 [os]
 disabled = false
-style = "bg:#fb4934"
+style = "bg:#fb4934 fg:#282828"
 
 [os.symbols]
 Windows = "󰍲 "
@@ -52,8 +52,8 @@ Pop = " "
 
 [username]
 show_always = true
-style_user = "bg:#83a598"
-style_root = "bg:#83a598"
+style_user = "bg:#83a598 fg:#282828"
+style_root = "bg:#83a598 fg:#282828"
 format = '[ $user ]($style)'
 
 [git_branch]
