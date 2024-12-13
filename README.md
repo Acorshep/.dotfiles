@@ -8,7 +8,7 @@ Feel free to copy any of the dotfiles or downlaod the wallpapers you find here, 
 * DE: i3
 * Top panel: polybar
 * Term: Wezterm
-* shell: nushell
+* shell: nushell with oh-my-posh
 * Text Editor: Neovim
 * App Launcher: Rofi
 * File manager: pantheon files & yazi
