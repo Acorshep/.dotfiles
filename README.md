@@ -15,6 +15,5 @@ Feel free to copy any of the dotfiles or downlaod the wallpapers you find here, 
 * notifications: dunst
 * Screenshot Tool: flameshot
 
-![s82](https://github.com/user-attachments/assets/1e568e7a-a296-42a9-996e-cddedba18406)
-
-![s84](https://github.com/user-attachments/assets/1ece1b0e-44e0-41e0-9c83-c6b4fef041fa)
+![s92](https://github.com/user-attachments/assets/b1304eb7-d948-4f71-975a-cc4f03ad95bc)
+![s94](https://github.com/user-attachments/assets/66c49872-1cf4-4381-93a4-e05856979cdb)
