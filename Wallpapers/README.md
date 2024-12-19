@@ -51,7 +51,7 @@
 ## w25
 ![Wall1](walls/f.jpg)
 ## W26
-![Wall1](walls/p1.jpeg)
+![Wall1](walls/p1.png)
 # W27
 ![Wall1](walls/w1.jpg)
 # W28
